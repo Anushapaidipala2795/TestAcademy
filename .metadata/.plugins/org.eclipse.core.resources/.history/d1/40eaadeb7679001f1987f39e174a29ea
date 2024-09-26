@@ -1,0 +1,22 @@
+package Academy;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Collect {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ArrayList<Integer> a=new ArrayList<>(List.of(2, 23, 67, 78));
+		
+		System.out.println(a);
+		
+
+		
+	}
+
+}
